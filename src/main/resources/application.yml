@@ -4,6 +4,6 @@ spring:
 
 server:
   port: 9898
-
 logging:
-  file: C:/Users/basan/Desktop/logs/elk-stack.log
+  file:
+    name: D:/ISICOURS/MASTER2/Devops/ElasticSearch/elk-stack.log
